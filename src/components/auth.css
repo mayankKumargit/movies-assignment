@@ -7,11 +7,6 @@
     align-items: center;
     height: 100vh;
   } */
-
-  .app{
-    min-height: 100vh;
-    overflow-x: hidden;
-  }
   
   .box {
     border: 1px solid #dfdfdf;
